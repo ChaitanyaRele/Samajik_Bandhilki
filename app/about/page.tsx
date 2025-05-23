@@ -9,7 +9,7 @@ export default function AboutPage() {
     {
       name: "Bhakti Rele",
       role: "Founder",
-      image: "/placeholder.svg?height=150&width=150",
+      image: "/bukki.jpg?height=150&width=150",
       description: "Leading the organization with dedication and compassion for over 10 years.",
     },
     {
@@ -39,13 +39,13 @@ export default function AboutPage() {
     {
       name: "Shri. Sharad Naik",
       role: "Member",
-      image: "/DP.jpg?height=150&width=150",
+      image: "/placeholder.svg?height=150&width=150",
       description: "Contributing member.",
     },
     {
       name: "Sunil Yadav",
       role: "Member",
-      image: "/DP.jpg?height=150&width=150",
+      image: "/placeholder.svg?height=150&width=150",
       description: "Contributing member.",
     },
   ]
