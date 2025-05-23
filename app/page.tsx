@@ -254,7 +254,7 @@ export default async function Home() {
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-3 gap-8">
             <div>
-              <h2 className="text-2xl font-bold mb-4 font-serif">समाजिक बांधिलकी</h2>
+              <h2 className="text-2xl font-bold mb-4 font-serif">सामाजिक बांधिलकी</h2>
               <h3 className="text-xl mb-4">Samajik Bandhilki</h3>
               <p className="text-gray-400">
                 A charity organization dedicated to serving the community of Girgaon and beyond.
@@ -263,8 +263,8 @@ export default async function Home() {
             <div>
               <h3 className="text-xl font-bold mb-4 font-serif">Contact Us</h3>
               <p className="text-gray-400 mb-2">Girgaon, Mumbai, Maharashtra</p>
-              <p className="text-gray-400 mb-2">Email: info@samajikbandhilki.org</p>
-              <p className="text-gray-400">Phone: +91 98765 43210</p>
+              <p className="text-gray-400 mb-2">Email: samajikbandhilki@gmail.com</p>
+              <p className="text-gray-400">Phone: +91 9869244813, +91 9322912103</p>
             </div>
             <div>
               <h3 className="text-xl font-bold mb-4 font-serif">Quick Links</h3>
