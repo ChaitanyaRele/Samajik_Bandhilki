@@ -31,7 +31,7 @@ export default async function Home() {
       <header className="bg-gradient-to-r from-orange-600 to-orange-500 text-white border-b-4 border-green-600">
         <div className="container mx-auto px-4 py-6">
           <div className="flex justify-between items-center">
-            <h1 className="text-3xl font-bold font-serif">समाजिक बांधिलकी</h1>
+            <h1 className="text-3xl font-bold font-serif">सामाजिक बांधिलकी</h1>
             <nav className="flex flex-wrap gap-2 sm:gap-4">
               <Link href="/about">
                 <Button variant="ghost" className="text-white hover:bg-orange-700">
@@ -44,7 +44,7 @@ export default async function Home() {
                 </Button>
               </Link>
               <Link href="/admin/login">
-                <Button variant="outline" className="text-white border-white hover:bg-orange-700">
+                <Button variant="outline" className="text-black border-white hover:bg-orange-700">
                   Admin Login
                 </Button>
               </Link>
@@ -68,9 +68,9 @@ export default async function Home() {
               <div className="w-16 h-1 bg-green-600 mx-auto"></div>
             </div>
             <h1 className="text-5xl font-bold mb-4 text-gray-900 font-serif">Samajik Bandhilki</h1>
-            <h2 className="text-4xl font-bold mb-6 text-orange-600 font-serif">समाजिक बांधिलकी</h2>
+            <h2 className="text-4xl font-bold mb-6 text-orange-600 font-serif">सामाजिक बांधिलकी</h2>
             <p className="text-xl mb-8 max-w-3xl mx-auto text-gray-700">
-              A charity organization dedicated to serving the community of Girgaon and beyond. Discover our activities
+              A charity organization dedicated to serving the adivasi communities and supporting special needs organisations. Discover our activities
               and initiatives that make a difference in people's lives.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -108,7 +108,7 @@ export default async function Home() {
                 </div>
                 <h3 className="text-xl font-semibold mb-3 text-orange-700 text-center">Community Support</h3>
                 <p className="text-gray-600 text-center">
-                  Providing essential resources and support to those in need within our community.
+                  Providing essential resources and support to those in need specifically adivasi women and children and most notably orphans.
                 </p>
               </div>
               <div className="bg-green-50 p-8 rounded-lg shadow-md border-t-4 border-green-500 hover:shadow-lg transition-shadow">
@@ -132,7 +132,7 @@ export default async function Home() {
                 </div>
                 <h3 className="text-xl font-semibold mb-3 text-green-700 text-center">Education</h3>
                 <p className="text-gray-600 text-center">
-                  Promoting education and skill development for underprivileged children and adults.
+                  Promoting education for underprivileged children and orphans.
                 </p>
               </div>
               <div className="bg-blue-50 p-8 rounded-lg shadow-md border-t-4 border-blue-500 hover:shadow-lg transition-shadow">
