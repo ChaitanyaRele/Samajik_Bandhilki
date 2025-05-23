@@ -15,7 +15,7 @@ export default function AboutPage() {
     {
       name: "Chandrahas Chonkar",
       role: "Vice President",
-      image: "/placeholder.svg?height=150&width=150",
+      image: "/CC.jpg?height=150&width=150",
       description: "Supporting community initiatives and managing organizational operations.",
     },
     {
@@ -30,6 +30,12 @@ export default function AboutPage() {
       image: "/placeholder.svg?height=150&width=150",
       description: "Managing planning of programs.",
     },
+    {
+      name: "Deepak Ghatpande",
+      role: "Member",
+      image: "/DP.jpg?height=150&width=150",
+      description: "Managing planning of programs.",
+    }
   ]
 
   const achievements = [
