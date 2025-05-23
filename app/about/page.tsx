@@ -35,13 +35,13 @@ export default function AboutPage() {
   const achievements = [
     {
       icon: Users,
-      number: "500+",
-      label: "Families Helped",
+      number: "150+",
+      label: "Children Helped",
       description: "परिवारों की सहायता",
     },
     {
       icon: Calendar,
-      number: "50+",
+      number: "10+",
       label: "Events Organized",
       description: "आयोजित कार्यक्रम",
     },
@@ -53,7 +53,7 @@ export default function AboutPage() {
     },
     {
       icon: Heart,
-      number: "100+",
+      number: "20+",
       label: "Active Volunteers",
       description: "सक्रिय स्वयंसेवक",
     },
@@ -125,7 +125,7 @@ export default function AboutPage() {
               {/* Placeholder for organization banner - replace with actual banner */}
               <div className="absolute inset-0 bg-gradient-to-r from-orange-500/20 to-red-500/20"></div>
               <img
-                src="/placeholder.svg?height=400&width=1200"
+                src="/मुलांच्या हास्यासाठी, शिक्षणासाठी आणि स्वप्नांच्या नव्या उड्डाणांसाठी (2) (1) (1).png?height=400&width=1200"
                 alt="Samajik Bandhilki Organization Banner"
                 className="w-full h-full object-cover"
               />
