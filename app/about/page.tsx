@@ -35,7 +35,19 @@ export default function AboutPage() {
       role: "Member",
       image: "/DP.jpg?height=150&width=150",
       description: "Managing planning of programs.",
-    }
+    },
+    {
+      name: "Shri. Sharad Naik",
+      role: "Member",
+      image: "/DP.jpg?height=150&width=150",
+      description: "Contributing member.",
+    },
+    {
+      name: "Sunil Yadav",
+      role: "Member",
+      image: "/DP.jpg?height=150&width=150",
+      description: "Contributing member.",
+    },
   ]
 
   const achievements = [
