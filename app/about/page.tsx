@@ -79,7 +79,7 @@ export default function AboutPage() {
                 <Heart className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h1 className="text-3xl font-bold font-serif">समाजिक बांधिलकी</h1>
+                <h1 className="text-3xl font-bold font-serif">सामाजिक बांधिलकी</h1>
                 <p className="text-orange-100 text-sm">Samajik Bandhilki</p>
               </div>
             </Link>
@@ -131,7 +131,7 @@ export default function AboutPage() {
               />
               <div className="absolute inset-0 bg-black/30 flex items-center justify-center">
                 <div className="text-center text-white">
-                  <h3 className="text-4xl md:text-6xl font-bold font-serif mb-4">समाजिक बांधिलकी</h3>
+                  <h3 className="text-4xl md:text-6xl font-bold font-serif mb-4">सामाजिक बांधिलकी</h3>
                   <p className="text-xl md:text-2xl">Samajik Bandhilki - Girgaon</p>
                   <div className="flex items-center justify-center mt-4">
                     <MapPin className="w-5 h-5 mr-2" />
@@ -210,8 +210,8 @@ export default function AboutPage() {
             <CardContent className="max-w-4xl mx-auto">
               <div className="text-lg text-gray-700 leading-relaxed space-y-6">
                 <p>
-                  <strong>समाजिक बांधिलकी (Samajik Bandhilki)</strong> is a charitable organization founded with the
-                  noble mission of serving the community of Girgaon, Mumbai, and surrounding areas. Established with the
+                  <strong>सामाजिक बांधिलकी (Samajik Bandhilki)</strong> is a charitable organization founded with the
+                  noble mission of serving the underdeveloped adivasi communities and special needs organisations in Mumbai, and surrounding districts. Established with the
                   belief that "वसुधैव कुटुम्बकम्" (The World is One Family), we work tirelessly to bridge the gap between the
                   privileged and underprivileged sections of society.
                 </p>
