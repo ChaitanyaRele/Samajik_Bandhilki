@@ -125,7 +125,7 @@ export default function AboutPage() {
               {/* Placeholder for organization banner - replace with actual banner */}
               <div className="absolute inset-0 bg-gradient-to-r from-orange-500/20 to-red-500/20"></div>
               <img
-                src="/मुलांच्या हास्यासाठी, शिक्षणासाठी आणि स्वप्नांच्या नव्या उड्डाणांसाठी (2) (1) (1).png?height=400&width=1200"
+                src="/मुलांच्या हास्यासाठी, शिक्षणासाठी आणि स्वप्नांच्या नव्या उड्डाणांसाठी (2) (1) (1).png?height=600&width=1200"
                 alt="Samajik Bandhilki Organization Banner"
                 className="w-full h-full object-cover"
               />
