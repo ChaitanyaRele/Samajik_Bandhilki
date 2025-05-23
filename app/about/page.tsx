@@ -96,7 +96,7 @@ export default function AboutPage() {
                 </Button>
               </Link>
               <Link href="/admin/login">
-                <Button variant="outline" className="text-white border-white/30 hover:bg-white/20">
+                <Button variant="outline" className="text-black border-white/30 hover:bg-white/20">
                   Admin Login
                 </Button>
               </Link>
@@ -156,7 +156,7 @@ export default function AboutPage() {
               </CardHeader>
               <CardContent className="text-center">
                 <p className="text-gray-700 leading-relaxed">
-                  To serve the underprivileged communities in Girgaon and surrounding areas by providing essential
+                  To serve the underprivileged adivasi communities and special needs organisations in Mumbai and surrounding districts by providing essential
                   resources, education, healthcare support, and creating opportunities for sustainable development.
                 </p>
               </CardContent>
