@@ -48,7 +48,7 @@ export default async function ActivitiesPage() {
                 <Heart className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h1 className="text-3xl font-bold font-serif">समाजिक बांधिलकी</h1>
+                <h1 className="text-3xl font-bold font-serif">सामाजिक बांधिलकी</h1>
                 <p className="text-orange-100 text-sm">Samajik Bandhilki</p>
               </div>
             </Link>
@@ -83,8 +83,8 @@ export default async function ActivitiesPage() {
           <h2 className="text-3xl font-bold mb-6 text-green-700 font-serif">Our Activities</h2>
           <div className="w-24 h-1 bg-gradient-to-r from-orange-500 to-red-500 mx-auto mb-6"></div>
           <p className="text-xl text-gray-700 max-w-3xl mx-auto">
-            समुदाय की सेवा में हमारे प्रयास | Explore the various initiatives and activities we have undertaken to serve our
-            community in Girgaon and beyond
+            समुदाय की सेवा में हमारे प्रयास | Explore the various initiatives and activities we have undertaken to serve the
+            communities in Mumbai and beyond
           </p>
         </section>
 
@@ -167,7 +167,7 @@ export default async function ActivitiesPage() {
                   <Heart className="w-5 h-5 text-white" />
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold font-serif">समाजिक बांधिलकी</h3>
+                  <h3 className="text-xl font-bold font-serif">सामाजिक बांधिलकी</h3>
                   <p className="text-sm opacity-80">Samajik Bandhilki</p>
                 </div>
               </div>
