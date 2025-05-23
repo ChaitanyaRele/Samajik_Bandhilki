@@ -65,7 +65,7 @@ export default async function ActivitiesPage() {
                 </Button>
               </Link>
               <Link href="/admin/login">
-                <Button variant="outline" className="text-white border-white/30 hover:bg-white/20">
+                <Button variant="outline" className="text-black border-white/30 hover:bg-white/20">
                   Admin Login
                 </Button>
               </Link>
