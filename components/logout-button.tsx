@@ -26,7 +26,7 @@ export default function LogoutButton() {
   return (
     <Button
       variant="outline"
-      className="text-white border-white/30 hover:bg-white/20 backdrop-blur-sm"
+      className="text-black border-white/30 hover:bg-white/20 backdrop-blur-sm"
       onClick={handleLogout}
       disabled={isLoggingOut}
     >
