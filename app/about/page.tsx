@@ -8,27 +8,27 @@ export default function AboutPage() {
   const contributors = [
     {
       name: "Bhakti Rele",
-      role: "Founder & President",
+      role: "Founder",
       image: "/placeholder.svg?height=150&width=150",
       description: "Leading the organization with dedication and compassion for over 10 years.",
     },
     {
-      name: "Milind Purao",
+      name: "Chandrahas Chonkar",
       role: "Vice President",
       image: "/placeholder.svg?height=150&width=150",
       description: "Supporting community initiatives and managing organizational operations.",
     },
     {
-      name: "Volunteer Name",
-      role: "Community Coordinator",
+      name: "Shilpa / Rakesh Kelaskar",
+      role: "Member",
       image: "/placeholder.svg?height=150&width=150",
       description: "Coordinating community outreach programs and volunteer activities.",
     },
     {
-      name: "Volunteer Name",
-      role: "Education Head",
+      name: "Shilpa / Anil Thakur",
+      role: "Member",
       image: "/placeholder.svg?height=150&width=150",
-      description: "Managing educational initiatives and skill development programs.",
+      description: "Managing planning of programs.",
     },
   ]
 
