@@ -129,16 +129,6 @@ export default function AboutPage() {
                 alt="Samajik Bandhilki Organization Banner"
                 className="w-full h-full object-cover"
               />
-              <div className="absolute inset-0 bg-black/30 flex items-center justify-center">
-                <div className="text-center text-white">
-                  <h3 className="text-4xl md:text-6xl font-bold font-serif mb-4">सामाजिक बांधिलकी</h3>
-                  <p className="text-xl md:text-2xl">Samajik Bandhilki - Girgaon</p>
-                  <div className="flex items-center justify-center mt-4">
-                    <MapPin className="w-5 h-5 mr-2" />
-                    <span>गिरगाँव, मुंबई | Girgaon, Mumbai</span>
-                  </div>
-                </div>
-              </div>
             </div>
           </Card>
         </section>
